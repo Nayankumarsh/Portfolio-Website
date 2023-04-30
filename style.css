@@ -286,7 +286,7 @@ a {
 .project-card {
   width: 90%;
   height: 550px;
-  background-image: url(./images/projects/Project1.png);
+  background-image: url(./images/projects/Project11.png);
   background-size: cover;
   /* background-repeat: no-repeat; */
   position: relative;
@@ -355,10 +355,13 @@ a {
 
 .project-content-left {
   left: 10%;
+  right: 10%;
 }
 
 .project-content-right {
-  right: 10%;
+  right: 5%;
+  /* display: inline; */
+  left: 36%;
 }
 .project-skills-container {
   width: 60%;
@@ -402,7 +405,7 @@ a {
 }
 
 #project1 {
-  background-image: url(./images/projects/Project1.png);
+  background-image: url(./images/projects/Project11.png);
 }
 
 #project2 {
@@ -415,6 +418,9 @@ a {
 #project4 {
   margin-left: 120px;
   background-image: url(./images/projects/Project4.png);
+}
+#project5 {
+  background-image: url(./images/projects/Project5.png);
 }
 
 .skills-container {
