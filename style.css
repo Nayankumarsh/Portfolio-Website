@@ -430,11 +430,15 @@ a {
   background-image: url(./images/projects/Adventure.png);
 }
 #project8 {
-  background-image: url(./images/projects/Shoping\ Cart.png);
+  background-image: url(./images/projects/Shoping\Cart.png);
 }
 #project9 {
   margin-left: 120px;
   background-image: url(./images/projects/StudyNotion.png);
+}
+#project10 {
+  margin-left: 120px;
+  background-image: url(./images/projects/Modern\ Web.png);
 }
 
 
