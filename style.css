@@ -437,7 +437,7 @@ a {
   background-image: url(./images/projects/StudyNotion.png);
 }
 #project10 {
-  margin-left: 120px;
+
   background-image: url(./images/projects/Modern\Web.png);
 }
 
@@ -665,9 +665,7 @@ footer {
   #project9 {
     margin-left: 0;
   }
-  #project10 {
-    margin-left: 0;
-  }
+
   .project-skill-container {
     width: 100%;
   }
